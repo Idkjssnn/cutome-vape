@@ -1,6 +1,1 @@
-if HWID = "D7A725E3-8B34-4166-8562-FDD6CAF819D8"
-then
-print("good")
-else
-print("bad")
-end
+HWID = D7A725E3-8B34-4166-8562-FDD6CAF819D8
